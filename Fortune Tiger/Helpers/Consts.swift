@@ -16,7 +16,7 @@ enum Consts {
     static let gameRound = 180
     static let tigerNames = ["Amur Tiger", "Bengal Tiger", "Chinese Tiger", "Indochina Tiger", "Malay Tiger", "Mazandaran Tiger", "South China Tiger", "Sumatran Tiger", "Turanian Tiger"]
     static let tigerDescriptions: [String: String] = [
-        "Amur tiger": """
+        "Amur Tiger": """
         The Amur tiger, also known as the Siberian tiger, is the largest of all tiger subspecies. Its range includes the far eastern regions of Russia, including the Primorsky and Khabarovsk territories. Amur tigers are known for their thick fur, which helps them survive in harsh winter conditions. They hunt large ungulates such as deer and wild boar. Unfortunately, the number of Amur tigers has significantly decreased due to poaching and habitat loss. Today, active measures are being taken to protect and restore their population.
         """,
         "Bengal Tiger": """
@@ -28,7 +28,7 @@ enum Consts {
         "Indochina Tiger": """
         The Indochinese tiger inhabits forests and mountainous regions of Southeast Asia, including countries such as Thailand, Vietnam, Laos, and Cambodia. This subspecies is smaller and darker compared to the Bengal tiger. Indochinese tigers hunt a variety of animals, including deer, wild boar, and small mammals. They are under threat due to habitat loss and poaching. Active efforts are currently underway to protect and restore their population.
         """,
-        "Malay tiger": """
+        "Malay Tiger": """
         The Malay tiger is found on the Malay Peninsula. This subspecies was recognized as distinct in 2004. Malay tigers have a compact build and a characteristic coat with narrow black stripes on an orange background. They prefer tropical forests and hunt a variety of prey, including deer and wild boar. Currently, Malay tigers are under threat due to deforestation and poaching. Conservation efforts are focused on preserving and restoring their natural habitat.
         """,
         "Mazandaran Tiger": """

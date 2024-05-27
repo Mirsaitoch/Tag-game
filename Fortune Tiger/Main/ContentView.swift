@@ -30,6 +30,7 @@ struct ContentView: View {
                                 ContentButtonView(text: "Encyclopedia", color: .darkRed)
                             }
                         }
+                        .padding(.bottom)
                     }
                 }
             }

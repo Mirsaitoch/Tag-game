@@ -16,7 +16,7 @@ struct EncyclopediaDetailView: View {
             Image(.encyclopediaBg)
                 .resizable()
                 .ignoresSafeArea()
-            VStack(alignment: .leading) {
+            VStack(alignment: .center) {
                 HStack {
                     Button {
                         self.presentationMode.wrappedValue.dismiss()
@@ -71,5 +71,5 @@ struct EncyclopediaDetailView: View {
 }
 
 #Preview {
-    EncyclopediaDetailView(name: "Amur tiger")
+    EncyclopediaDetailView(name: "Amur Tiger")
 }
